@@ -1,0 +1,4 @@
+git init - to initiliaze the git the project directory
+git clone - to clone the remote into local 
+git add remote origin URL_name - to add the remote origin
+git status - to check the changed files that you have worked
