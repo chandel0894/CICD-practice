@@ -2,3 +2,6 @@ git init - to initiliaze the git the project directory
 git clone - to clone the remote into local 
 git add remote origin URL_name - to add the remote origin
 git status - to check the changed files that you have worked
+git config user.name "chandel0894" - to set the username
+git config user.name - to the username 
+git remote -v
