@@ -9,3 +9,4 @@ git remote -v
 If error is Permission denied 403 and replace token with the actual token 
 git remote set-url origin https://chandel0894:<YOUR_TOKEN>@github.com/chandel0894/CICD-practice.git
 
+git branch ( to show all the brances)
