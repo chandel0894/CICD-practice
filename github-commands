@@ -11,6 +11,7 @@ git remote set-url origin https://chandel0894:<YOUR_TOKEN>@github.com/chandel089
 git log
 git show
 git checkout
+cat .git/config - to check local username
 
 
 
